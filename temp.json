@@ -1,0 +1,117 @@
+{
+    "Block": false,
+    "JoinGroup": {},
+    "admin": [
+        "u2db707c088044deb4757c666d1eea1a0",
+        "u9ff8303e5117ffdef21cf174d0c2593c"
+    ],
+    "asyncJoin": false,
+    "autoAdd": true,
+    "autoJoin": true,
+    "autoJoinTicket": false,
+    "autoJoinkick": false,
+    "autoLeave": true,
+    "autoPtt": false,
+    "autoRead": true,
+    "bgi": false,
+    "yee":{},
+    "blacklist": {
+        "Ma:Mub:u4a291e70800eb289435479ab128f00e6": true,
+        "Ma:u3181ae273ef5a07111e1bd7f3bf0b48e": true,
+        "Ma:u38186d3999923b919491af9d6a4c7180": true,
+        "Ma:u4a291e70800eb289435479ab128f00e6": true,
+        "Ma:ub48934f580b1227e8c864b44253d81be": true,
+        "u4a291e70800eb289435479ab128f00e6": true
+    },
+    "canceljoin": false,
+    "cancelprotect": false,
+    "cc": false,
+    "changeGroupPicture": {},
+    "changePicture": {},
+    "checkSticker": false,
+    "contact": false,
+    "dblack": false,
+    "dblacklist": false,
+    "detectMention": true,
+    "file": false,
+    "gm": {
+        "c1dca4d48eac80ad9d8d5dd2802e2662d": [
+            "u01948c7c1210e23140257dd0720627d6"
+        ]
+    },
+    "id": false,
+    "image": false,
+    "invBlock": false,
+    "invblock": true,
+    "inviteprotect": false,
+    "jm": {},
+    "keyCommand": "",
+    "kick": true,
+    "kickContact": false,
+    "kickerjoin": false,
+    "kickjoin": false,
+    "kickmeber": true,
+    "lang": "JP",
+    "mid": false,
+    "mimic": {
+        "copy": false,
+        "status": true,
+        "target": {}
+    },
+    "mute": {
+        "上午場": "1:00\n團長★阿熙\n\n2:00\n團長\n\n3:00\n團長\n\n4:00\n\n\n5:00\n\n\n6:00\n\n\n7:00\n\n\n8:00\n恒亮★龜王\n\n9:00\n團長★恒亮★龜王★小鬼\n\n10:00\n團長★恒亮★小鬼★庭庭★忠忠\n\n11:00\n團長★恒亮★小鬼★庭庭★忠忠\n\n12:00\n團長★恒亮★忠忠",
+        "下午場": "13:00\n團長★恒亮★星雨\n\n14:00\n團長★恒亮★草莓★星雨★貓咪\n\n15:00\n團長★恒亮★草莓★星雨★貓咪★熙熙\n\n16:00\n團長★恒亮★草莓★星雨★貓咪★寶寶熙熙★冬瓜\n\n17:00\n團長★恒亮★包子★草莓★零度★星雨貓咪★寶寶★小傑★熙熙★冬瓜\n\n18:00\n包子★草莓★零度★星雨★貓咪★寶寶美男★桶仔★小傑★熙熙★冬瓜\n\n19:00\n團長★草莓★零度★星雨★寶寶★美男洋洋★桶仔★小傑★紅紅★熙熙★冬瓜\n\n20:00\n團長★死神★草莓★日蝕★零度★家家星雨★小安★寶寶★美男★洋洋★桶仔蒼穹★小龍★小傑★紅紅★熙熙★哭啊昱楓★冬瓜\n\n21:00\n團長★東哥★恒亮★情殤★死神★孟仔草莓★日蝕★零度★家家★星雨★夜狼小安★寶寶★中路★美男★洋洋★蒼穹小龍★小傑★麻糬★石頭★紅紅★哭啊昱楓★拳霜★丞丞\n\n22:00\n團長★東哥★恒亮★情殤★孟仔★阿熙日蝕★夜狼★寶寶★中路★美男★蒼穹小龍★小傑★麻糬★石頭★紅紅★阿德哭啊★昱楓★拳霜★皮貓★丞丞\n\n23:00\n小丑★團長★東哥★阿熙★美男★小傑麻糬★石頭★紅紅★阿德★皮貓★丞丞\n\n00:00\n團長★阿熙★小奈★小傑★阿德",
+        "團規": "禁止排擠等不良行為，破壞成員之間的和諧\n\n禁止擅自邀人入群組，防止有不良人士翻群\n\n請勿擅自退出攻略團，如想退團請事先通知\n\n請勿洗板例如刷訊息，以免有其他成員不滿\n\n成員內請多互相交談，培育成員之間的羈絆\n\n如有爭執請理性解決，同時也不要瞞在心裡"
+    },
+    "protect": false,
+    "qrprotect": false,
+    "react": false,
+    "reread": false,
+    "seeJoin": false,
+    "seeLeave": false,
+    "sendall": false,
+    "setKey": {
+        "key": ".",
+        "status": true
+    },
+    "sound": true,
+    "sr": {
+        "16897293948117": "晚安",
+        "28021359810589812": "我就爛啦",
+        "29394811716897": "晚安",
+        "5211412311539": "Yes"
+    },
+    "stick": {},
+    "text": false,
+    "timeline": false,
+    "user": {},
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
+    ],
+    "video": true,
+    "warmode": {
+        "c4481880c1a74c79ed87aad2ba7cc6677": true,
+        "cb4c0edd91607ad0e35b8629e028e8a4e": true
+    },
+    "wblack": false,
+    "wblacklist": false
+}

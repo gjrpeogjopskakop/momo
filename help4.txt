@@ -1,0 +1,24 @@
+═══[其餘開關  功能]═══
+「rt on/off」偵測更新
+「rd on/off」自動已讀
+「red on/off」開關副讀
+「rdd on/off」新增好友
+═══[進退開關  功能]═══
+「raj on/off」自動進群
+「rqj on/off」網址進群
+「ral on/off」防邀副本
+═══[通知開關  功能]═══
+「rc on/off」踢人顯示
+「rj on/off」入群通知
+「rl on/off」退群通知
+「rm on/off」標住通知
+═══[保護開關  功能]═══
+「rk on/off」進群保護
+「rop on/off」踢人保護
+「rip on/off」邀請保護
+「rqp on/off」網址保護
+═══[指令表 V4 功能]═══
+作者:大米
+ID:nope
+QR:http://line.me/ti/p/nope
+═══[指令表 V4 功能]═══
